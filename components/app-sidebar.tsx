@@ -211,12 +211,12 @@ const data = {
   navMain: [
     {
       title: "Home",
-      url: "dashboard/home",
+      url: "/dashboard/home",
       icon: IconDashboard,
     },
     {
       title: "Leads",
-      url: "dashboard/leads",
+      url: "/dashboard/leads",
       icon: IconListDetails,
     },
     {
